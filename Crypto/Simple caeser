@@ -1,0 +1,5 @@
+FLAG="JCTF{th4t_w4s_s1mpL3i_5u9hvgh}"
+
+After using caesar cipher on plaintext we get 
+
+ciphertext="HARD{rf4r_u4q_q1knJ3g_5s9ftef}"
