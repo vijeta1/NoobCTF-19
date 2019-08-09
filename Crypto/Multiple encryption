@@ -1,0 +1,10 @@
+Flag="JCTF{thisiscrypto!56tuigg}"
+
+we obtain ciphertext by using ROT13 cipher on plaintext
+
+ciphertext="WPGS{guvfvfpelcgb!56ghvtt}"
+
+Now we convert this ciphertext to base64 format
+
+ciphertext="V1BHU3tndXZmdmZwZWxjZ2IhNTZnaHZ0dH0="
+
