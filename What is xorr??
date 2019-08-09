@@ -1,7 +1,0 @@
-ciphertext="OFQC~qm4vZrdvZv4lhui`Z}5wx"
-
-plaintext="JCTF{th1s_was_s1imple_x0r}"
-
-key=5
-
-ciphertext is produced by xoring each element of plaintext with key.
